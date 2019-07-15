@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rich-amphora-246410",
+  "private_key_id": "4ea0702af0479abce2393dfe6bd4a0b3f74b8cbf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqo7c6vVZpjnRI\ntIFJPu77bWXTuYHr3YSH1LZ2TfS7bjgXniIVyP7WlO7Uawvrx8rR3UjkU8J2RAaY\nvH91g8IpAV2PZxwEH0Bl6OFaRFTgPBP/XeoOoljtG3O8noyVmMd3TLrlYmPo0Zs6\nVXUTt0VbVZQAyW6rvcgTrkcClfPY5ryqEw92YD1GE6rxPkVeSF9k0FjoaIYniGPx\nothAGsnH/jejI+slJKRd/5SETyfpJVDsKdUpUnM0hvNhwKAe5GjoCeVhAHJYuCd0\nc/N4gBMjHiOISWC6cRrKVqgdzZa2BHLhflKvIRpTIlyjLWeTmz5Bc7kpAOdm09ur\nw/VAoYUtAgMBAAECggEAUWldnIlD5oWgJiX0fuEnPM7DY8HgYgtkVTffu87Soe/i\nlCYOhg1IxFD3J2JRJDNEqV7ljYYGw80NxqY8O3Fa25x6qlXb0H2miFiU16+9POR8\n9/uzFTtQqQNNcyLD2QW0uM7jZlhMaYJDiI/IFVl9nidUvxFbm1Wm1PjziSDI3+Ti\nkqzUHd0H/nJdo0mSKxXXlyYJStUHWD+Yb0Mcm5B8jtjiEfFLtVUX51nWQZ3nZ12W\nazzOYNBa6RlY8WapnCqFfDD+2wN9pT47eqaBQBvT2AoxMD0v5KRKKm+BltX5uwg1\naySU+APjukpIRPKUU8WjXGNPRRV6ih/3F/0ER/8JUwKBgQDSYkl/vkV1yfKfG668\nUBxDfbNVzU9M8cBuxUc+wj4lF39XZZ6jmhPgv5NI0Y5+v7u8GjO9cNAGDriK+/iz\n/hTHiMUbocaKUWFlkI3Ev/qVmUDhVsciELxYC7wNbWtERBJPFReVoXdGZdMLXM1z\ni5ejq+eaVIJ0lgB/4IGGv+yo9wKBgQDPo1kXs84UqN3D9KWG8iFckB76Q7e/K5iv\nqMC/etTvEcIsTpJvdslxDrHw6Zg8OdtfLXp3QS4aMn+ubkIWMk512rK/rz/tSYPB\n+A6Dt659P7wyJ6G1OvlR0mZRuE8X5qMyes0rmmf9qCJgU1lZDIFSDTitVkQ7GoZL\n/RIhwxM9+wKBgDgokGIPEk+M5rzeENinscO6TCK9OUvaxHlNI+V2yEvyZ8WWlLAr\nMt8thE1N0vG2kJB3lhQdhwn26AABnrO9QSK6OZNUrcDCVHNeENnSPTutuwnrtiA7\nw2rlRv92k8mXOiPuB2ujvEkIaTuBPD55prLD8oDZyjEA0YVREoI7vRqlAoGAa0Ln\n4D2rRLLjNLop1Cc6orV0uzXGMwRTcNLNF11dqE5VL0w7i0ci0ruTom8ZjGsa7vTw\nYbCTH0dc+//LNeow6+LZGfpvHKYwYUBCRzrY8ay+DG66s4NOjj0RTD/Y4/Dp90bG\nvDKca8WyVG5aJo02NOvNjoWU469VFuYZusUqKIcCgYAVe/4JW/FWlMMbemhkHv4P\nT5g/iJBTf7Zg2EBxArwZgj6XtAG4VOZ6xGrZvaVT8MFgf7VA8oWeB6YdmSA8MBA3\nHA8nPN5Usz479CW3rGUrCz+evAOAOwK9EnQ2LpFPfwi0JCnLeyzHiyVYlA1Rk+KA\nYVuPL/633Blz8HCbnlx+FA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "paris-958@rich-amphora-246410.iam.gserviceaccount.com",
+  "client_id": "115794033026264405475",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/paris-958%40rich-amphora-246410.iam.gserviceaccount.com"
+}
