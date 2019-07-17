@@ -26,7 +26,7 @@ class Login extends React.Component {
           this.state = {isLoggedIn: false}
           firebase.auth().signOut()
         }
-     
+
         // firebase.initializeApp({
         //     apiKey: "AIzaSyAvZ6FseRLo2NMkIxhmi8zXiQ5QPfSUYwM",
         //     authDomain: "login-page-9b3b5.firebaseapp.com"

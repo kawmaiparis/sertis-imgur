@@ -20,11 +20,12 @@ class Card extends React.Component {
     }
 
     render() {
+        // console.log("filename", this.state.filename);
         let imagesrc
         if (this.state.filename === undefined)
             imagesrc = "https://storage.cloud.google.com/image_bucket_here/default?folder=true&organizationId=true"
         else
-            imagesrc = "https://storage.cloud.google.com/image_bucket_here/" + this.state.filename + "?folder=true&organizationId=true"
+            imagesrc = "https://storage.cloud.google.com/image_bucket_here/images" + this.state.filename + "?folder=true&organizationId=true"
 
         return (
             <div className="overflow">
@@ -32,7 +33,7 @@ class Card extends React.Component {
                 <div className="card-bg">
                     <button href="#" className="btn btn-danger" onClick={this.download}>
                         {this.state.loadSuccess ?
-                            <span class="spinner-border spinner-border-sm"></span>
+                            <span className="spinner-border spinner-border-sm"></span>
                             :
                             "Download"
                         }

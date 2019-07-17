@@ -1,0 +1,330 @@
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:36:53 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:37:05 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:37:07 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:37:58 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:38:33 +0000] "GET /download/atharva-tulsi-Fhs91sjXpss-unsplash.jpg HTTP/1.1" 200 16 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ download start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:38:35 +0000] "GET /download/atharva-tulsi-Fhs91sjXpss-unsplash.jpg HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ download start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:38:40 +0000] "GET /download/chintya-lia-a-keirayuki-Tbsv-Mltwgw-unsplash.jpg HTTP/1.1" 200 16 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ download start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:42:45 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:43:47 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:43:57 +0000] "POST /browseFile HTTP/1.1" 200 251 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:43:59 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:44:34 +0000] "GET /display HTTP/1.1" - - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:44:34 +0000] "GET /display HTTP/1.1" 200 362 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:44:37 +0000] "POST /browseFile HTTP/1.1" 200 251 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:44:39 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:44:44 +0000] "GET /display HTTP/1.1" 200 369 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:44:57 +0000] "POST /browseFile HTTP/1.1" 200 245 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:45:00 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:45:05 +0000] "GET /display HTTP/1.1" 200 376 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:45:30 +0000] "POST /browseFile HTTP/1.1" 200 255 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:45:31 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:45:37 +0000] "GET /display HTTP/1.1" 200 383 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:45:48 +0000] "POST /browseFile HTTP/1.1" 200 245 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:46:23 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:46:29 +0000] "GET /display HTTP/1.1" 200 390 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:47:31 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:47:33 +0000] "POST /browseFile HTTP/1.1" 200 255 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:47:35 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:47:41 +0000] "GET /display HTTP/1.1" 200 397 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:47:53 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:47:56 +0000] "POST /browseFile HTTP/1.1" 200 251 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:47:57 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:48:03 +0000] "GET /display HTTP/1.1" 200 404 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:48:07 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:48:32 +0000] "POST /browseFile HTTP/1.1" 200 245 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:48:34 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:48:40 +0000] "GET /display HTTP/1.1" 200 411 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:48:52 +0000] "POST /browseFile HTTP/1.1" 200 245 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:48:55 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:49:00 +0000] "GET /display HTTP/1.1" 200 418 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:49:02 +0000] "POST /browseFile HTTP/1.1" 200 251 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:49:03 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:49:09 +0000] "GET /display HTTP/1.1" 200 424 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:49:13 +0000] "POST /browseFile HTTP/1.1" 200 244 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:49:15 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:49:21 +0000] "GET /display HTTP/1.1" 200 430 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:50:31 +0000] "GET /display HTTP/1.1" 200 309 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:08:51:42 +0000] "POST /browseFile HTTP/1.1" 200 245 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:08:51:44 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:51:49 +0000] "GET /display HTTP/1.1" 200 316 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:08:52:02 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:09:02:00 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:28:09 +0000] "GET /display HTTP/1.1" 200 341 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:28:26 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:34:48 +0000] "GET /display HTTP/1.1" 200 351 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:35:46 +0000] "GET /display HTTP/1.1" 200 49 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:35:48 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:10:35:52 +0000] "POST /browseFile HTTP/1.1" 200 245 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:10:35:53 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:35:59 +0000] "GET /display HTTP/1.1" 200 62 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:39:57 +0000] "GET /display HTTP/1.1" 200 24 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:40:13 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:40:44 +0000] "GET /display HTTP/1.1" 200 11 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:10:40:55 +0000] "POST /browseFile HTTP/1.1" 200 242 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:10:40:57 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:41:02 +0000] "GET /display HTTP/1.1" 200 38 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:41:37 +0000] "GET /display HTTP/1.1" 200 24 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:42:21 +0000] "GET /display HTTP/1.1" 200 38 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:42:46 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:44:34 +0000] "GET /display HTTP/1.1" 200 28 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:10:44:39 +0000] "GET /download/images/303 HTTP/1.1" 404 158 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:10:45:40 +0000] "GET /download/images/303 HTTP/1.1" 404 158 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:10:46:05 +0000] "GET /download/images/303 HTTP/1.1" 404 158 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:51:31 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:51:32 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:52:09 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:52:13 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:10:57:05 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:00:21 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:11:02:30 +0000] "POST /browseFile HTTP/1.1" 200 245 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:11:02:31 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:02:37 +0000] "GET /display HTTP/1.1" 200 42 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:11:03:48 +0000] "POST /browseFile HTTP/1.1" 200 244 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:11:03:51 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:03:56 +0000] "GET /display HTTP/1.1" 200 56 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:11:04:05 +0000] "POST /browseFile HTTP/1.1" 200 255 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:11:04:07 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:04:12 +0000] "GET /display HTTP/1.1" 200 70 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:11:04:16 +0000] "GET /download/images/6940 HTTP/1.1" 404 159 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:05:38 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:06:34 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:11:06:52 +0000] "GET /download/images/303 HTTP/1.1" 404 158 "http://localhost:3000/dashboard" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:08:26 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:11:00 +0000] "GET /display HTTP/1.1" 200 36 "http://localhost:3000/dashboard" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:11:18 +0000] "GET /display HTTP/1.1" 200 40 "http://localhost:3000/dashboard" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:12:36 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:12:44 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:12:49 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:14:07 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:14:18 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:14:23 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:53:16 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:11:53:22 +0000] "POST /browseFile HTTP/1.1" 200 251 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:11:53:32 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:11:53:38 +0000] "GET /display HTTP/1.1" 200 47 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"error":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"::","port":5000},"level":"error","message":"uncaughtException: listen EADDRINUSE: address already in use :::5000\nError: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (net.js:1228:14)\n    at listenInCluster (net.js:1276:12)\n    at Server.listen (net.js:1364:7)\n    at Function.listen (/home/paris/imgur-backend/node_modules/express/lib/application.js:618:24)\n    at Object.<anonymous> (/home/paris/imgur-backend/server.js:14:5)\n    at Module._compile (internal/modules/cjs/loader.js:776:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)\n    at Module.load (internal/modules/cjs/loader.js:643:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:556:12)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)","stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (net.js:1228:14)\n    at listenInCluster (net.js:1276:12)\n    at Server.listen (net.js:1364:7)\n    at Function.listen (/home/paris/imgur-backend/node_modules/express/lib/application.js:618:24)\n    at Object.<anonymous> (/home/paris/imgur-backend/server.js:14:5)\n    at Module._compile (internal/modules/cjs/loader.js:776:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)\n    at Module.load (internal/modules/cjs/loader.js:643:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:556:12)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)","exception":true,"date":"Wed Jul 17 2019 22:03:20 GMT+0700 (Indochina Time)","process":{"pid":2913,"uid":1000,"gid":1000,"cwd":"/home/paris/imgur-backend","execPath":"/usr/bin/node","version":"v12.6.0","argv":["/usr/bin/node","/home/paris/imgur-backend/server.js"],"memoryUsage":{"rss":46526464,"heapTotal":17981440,"heapUsed":11965672,"external":1467660}},"os":{"loadavg":[1.8681640625,0.5673828125,0.19775390625],"uptime":98},"trace":[{"column":14,"file":"net.js","function":"Server.setupListenHandle [as _listen2]","line":1228,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"net.js","function":"listenInCluster","line":1276,"method":null,"native":false},{"column":7,"file":"net.js","function":"Server.listen","line":1364,"method":"listen","native":false},{"column":24,"file":"/home/paris/imgur-backend/node_modules/express/lib/application.js","function":"Function.listen","line":618,"method":"listen","native":false},{"column":5,"file":"/home/paris/imgur-backend/server.js","function":null,"line":14,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":776,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":787,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":643,"method":"load","native":false},{"column":12,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":556,"method":"_load","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module.runMain","line":839,"method":"runMain","native":false}]}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:15:05:49 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:15:08:00 +0000] "POST /browseFile HTTP/1.1" 200 245 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:15:08:55 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"POST","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ browse start:"}
+::1 - - [17/Jul/2019:15:08:59 +0000] "POST /browseFile HTTP/1.1" 200 245 "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"method":"GET","level":"info","message":"Incoming request"}
+::1 - - [17/Jul/2019:15:09:05 +0000] "GET /upload HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+{"query":{},"level":"info","message":"/ upload start:"}
+{"method":"GET","level":"info","message":"Incoming request"}
+{"query":{},"level":"info","message":"/ display start:"}
+::1 - - [17/Jul/2019:15:09:11 +0000] "GET /display HTTP/1.1" 304 - "http://localhost:3000/dashboard" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"

@@ -73,7 +73,10 @@ class Dashboard extends React.Component {
             .then(response => response.json())
             .then(data => console.log(data))
         document.querySelector(".popup-box").style.display = "none"
-        setTimeout(() => { window.location.reload() }, 5000)
+        document.querySelector(".loading-box").style.display = "flex"
+        setTimeout(() => {
+            window.location.reload()
+        }, 5000)
 
     }
 
@@ -95,7 +98,7 @@ class Dashboard extends React.Component {
                                 <label className="custom-file-label" htmlFor="customFile">{this.state.file == null ? "choose file" : this.state.file.name}</label>
                             </div>
 
-                            <input type="submit" value="Upload" className="btn btn-warning btn-block" onClick={this.openPopup} />
+                            <input type="submit" value="Upload" className="btn btn-warning btn-block" onClick={this.openPopup} disabled={!this.state.file}/>
                         </form>
                     </Fragment>
                 </div>
@@ -108,7 +111,7 @@ class Dashboard extends React.Component {
                 <br />
 
                 <div className="flex-container">
-                    {this.state.image_locations.map((image) => <Card imagesrc={image} />)}
+                    {this.state.image_locations.map((image, i) => <Card key={i} imagesrc={image} />)}
                 </div>
 
                 <div className="popup-box">
@@ -120,6 +123,12 @@ class Dashboard extends React.Component {
                             <input className="popup-input" type="text" placeholder="eg: 99" />
                             <button className="btn btn-warning btn-lg" onClick={this.uploadPhoto}>Confirm Upload</button>
                         </div>
+                    </div>
+                </div>
+
+                <div className="loading-box">
+                    <div className="loading-content">
+                        <span className="spinner-border spinner-border-lg"></span> Uploading...
                     </div>
                 </div>
 
