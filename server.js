@@ -46,7 +46,7 @@ async function download(srcFilename) {
 // store selected image as "MyImage" in uplaods direcotry
 var storage = multer.diskStorage({
     destination: function (req, file, cb) {
-      cb(null, 'uploads/')
+      cb(null, 'imgur-frontend/src/uploads/')
     },
     filename: function (req, file, cb) {
       cb(null, file.fieldname)
@@ -76,7 +76,7 @@ app.get('/upload', (req, res) => {
 
 // UPLOAD HELPER
 async function upload() {
-    let filename = "uploads/myImage"
+    let filename = "imgur-frontend/src/uploads/myImage"
     const {Storage} = require("@google-cloud/storage")
     const storage = new Storage({
         projectId: 'imgur',
@@ -127,7 +127,6 @@ async function display() {
     files.forEach(file => {
         filenames.push(file.name);
     });
-    console.log(filenames);
     return filenames
 }
 
