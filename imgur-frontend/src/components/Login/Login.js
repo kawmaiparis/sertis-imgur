@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../App.css';
 
-import { Link } from "react-router-dom"
+import { Link , Redirect} from "react-router-dom"
 import firebase from "firebase"
 import StyledFirebaseAuth from "react-firebaseui/StyledFirebaseAuth"
 
@@ -24,7 +24,9 @@ class Login extends React.Component {
           this.state = {isLoggedIn: true}
         } else {
           this.state = {isLoggedIn: false}
+          firebase.auth().signOut()
         }
+     
         // firebase.initializeApp({
         //     apiKey: "AIzaSyAvZ6FseRLo2NMkIxhmi8zXiQ5QPfSUYwM",
         //     authDomain: "login-page-9b3b5.firebaseapp.com"
@@ -37,22 +39,25 @@ class Login extends React.Component {
  
     render() {
         return (
-        <div className="App">
-             <div className='container mt-4'>
+        <div className="login-container">
               {this.state.isLoggedIn ? (
-                  <span>
-                    <h1>Welcome {firebase.auth().currentUser.displayName}, you're signed in!</h1>
-                    <img alt="profile picture" src={firebase.auth().currentUser.photoURL}/>
-                    <Link to="/dashboard">Go to Dashboard</Link>
-                    <button onClick={() => firebase.auth().signOut()}>Sign out!</button>
-                </span>
+                <Redirect to="dashboard" />
+                //   <span>
+                //     <h1>Welcome {firebase.auth().currentUser.displayName}, you're signed in!</h1>
+                //     <img alt="profile picture" src={firebase.auth().currentUser.photoURL}/>
+                //     <Link to="/dashboard">Go to Dashboard</Link>
+                //     <button onClick={() => firebase.auth().signOut()}>Sign out!</button>
+                // </span>
               ) : (
+                <div>
+                <h1>Login.</h1>
+                <br/>
                 <StyledFirebaseAuth
                   uiConfig={this.uiConfig}
                   firebaseAuth={firebase.auth()}
                 />
+                </div>
               )}
-            </div>
         </div>
         )
     }

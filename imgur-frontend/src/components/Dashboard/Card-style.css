@@ -7,7 +7,7 @@
 }
 
 .card:hover{
-    box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253)!important;
+    box-shadow: 5px 10px 20px 1px rgba(255, 255, 255, 0.9)!important;
 }
 
 .card-body {
@@ -15,14 +15,20 @@
 }
 
 .overflow {
-     overflow: hidden;
- }
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    justify-content: center
+}
 
 .container-fluid.row{
     padding-top: 6rem;
 }   
 
 .card-img-top {
+    position: relative;
+    justify-content: center;
+    align-items: center;
     transform: scale(1);
     transition: transform 0.5s ease;
 }
@@ -32,5 +38,12 @@
 }
 
 .card-bg {
-    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    bottom: 10%;
+    left: 40%;
+    background: rgba(0, 0, 0, 0);
 }
+
+.card-button {
+    position: absolute;
+  }

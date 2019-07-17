@@ -18,13 +18,13 @@ class App extends React.Component {
   render() {
     return (  
       <Router>
-        <div className="App">
+        <div className="App" >
           <Switch>
             <Route path ="/" exact component={Login}/>
             <Route path ="/dashboard" exact component = {Dashboard}/>
           </Switch>
         </div>
-      </Router>
+      </Router> 
     );
   }
 }

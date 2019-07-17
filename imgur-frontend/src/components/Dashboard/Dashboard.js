@@ -2,8 +2,8 @@ import React, { Fragment } from 'react'
 import './Dashboard.css';
 import '../../App.css';
 import Card from "./Card"
+import firebase from "firebase"
 import { Link } from "react-router-dom"
-// import Spinner from "./Spinner"
 
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css"
 
@@ -11,8 +11,8 @@ const axios = require("axios");
 
 class Dashboard extends React.Component {
 
-    constructor() {
-        super()
+    constructor(props) {
+        super(props)
         this.state = {
             user: "user1",
             image_locations: [],
@@ -68,8 +68,13 @@ class Dashboard extends React.Component {
     }
 
     uploadPhoto() {
+        console.log("confirm upload")
         fetch("http://localhost:5000/upload")
+            .then(response => response.json())
+            .then(data => console.log(data))
         document.querySelector(".popup-box").style.display = "none"
+        setTimeout(() => { window.location.reload() }, 5000)
+
     }
 
     closePopup() {
@@ -78,7 +83,7 @@ class Dashboard extends React.Component {
 
     render() {
         return (
-            <div className="App">
+            <div className="base-container">
                 <h4 className="display-4 text-center mb-4">Dashboard</h4>
 
                 <div className='container mt-4'>
@@ -98,6 +103,7 @@ class Dashboard extends React.Component {
                 <div className="signOut">
                     <h2 className="user">{this.state.user}</h2>
                     <Link to="/" className="btn btn-outline-dark" isLoggedIn={false}>Sign out!</Link>
+                    {/* <img alt="profile picture" src={firebase.auth().currentUser.photoURL}/> */}
                 </div>
                 <br />
 
@@ -109,11 +115,11 @@ class Dashboard extends React.Component {
                     <div className="popup-content">
                         <p>Quality of image to be compressed...</p>
                         <p>100 = original  0 = max-compression</p>
-                        <form action="">
+                        <div>
                             <div className="popup-close" onClick={this.closePopup}>+</div>
                             <input className="popup-input" type="text" placeholder="eg: 99" />
-                            <a href="" className="btn btn-warning btn-lg" onClick={this.uploadPhoto}>Confirm Upload</a>
-                        </form>
+                            <button className="btn btn-warning btn-lg" onClick={this.uploadPhoto}>Confirm Upload</button>
+                        </div>
                     </div>
                 </div>
 
